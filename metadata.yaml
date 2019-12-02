@@ -1,11 +1,16 @@
 _repo: Frances-Mary-Buss-and-her-work-for-education_60820
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60820-h/images/cover.jpg
 creator:
   author:
     agent_name: Ridley, Annie E.
     gutenberg_agent_id: '51153'
     url: http://www.gutenberg.org/2009/agents/51153
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60820#Frances-Mary-Buss-and-her-work-for-education
 gutenberg_issued: '2019-12-01'
 gutenberg_type: Text
 identifiers:
